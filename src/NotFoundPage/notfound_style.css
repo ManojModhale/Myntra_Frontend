@@ -1,0 +1,9 @@
+.marq{
+    color: red;
+    font-size: 7em;
+}
+.headnotfound{
+    color: crimson;
+    font-size: 3em;
+    text-shadow: 20px 2px 30px dimgray;
+}
